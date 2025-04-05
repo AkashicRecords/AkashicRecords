@@ -1,6 +1,6 @@
-###Inspirational Quote : "It's not that I condone fascism or any 'ism' for that matter. Ism's, in my opinion, are not good. A person should not believe in an 'ism,' he should believe in himself." ~Ferris Bueller 
+### Inspirational Quote : "It's not that I condone fascism or any 'ism' for that matter. Ism's, in my opinion, are not good. A person should not believe in an 'ism,' he should believe in himself." ~Ferris Bueller 
 
-## Hi there 👋 Samuel Elder, Researcher, Computer Scientist, Philosipher, Artist, Visionary, Dream Builder, Father Son and citizen of planet Earth.
+## Hi there 👋 Samuel Elder : Researcher, Computer Scientist, Philosipher, Artist, Visionary, Dream Builder, Father Son and citizen of planet Earth.
 
 ### Current Projects 
   * Interceptor - specialized proxie built to be modular and flexible and easily integrated with other applications that can use the output data.
