@@ -1,6 +1,6 @@
 ## Hi there 👋 
 
-#### Inspirational Quote : "It's not that I condone fascism or any 'ism' for that matter. Ism's, in my opinion, are not good. A person should not believe in an 'ism,' he should believe in himself." ~Ferris Bueller 
+#### Inspirational Quote : "Real mastery begins when you question not just what is said, but why it’s said and what’s missing. Very few ever reach that level, biological or machine." ~ChatGPT 4o 
 
 ## Current Projects 
   ### Interceptor  - 
